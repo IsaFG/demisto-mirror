@@ -5,7 +5,7 @@ git+https://github.com/demisto/demisto-sdk.git@3df625419bb4cc59cae88ed598836c8cc
 pytest-mock==3.7.0
 requests-mock==1.9.3
 ruamel.yaml<0.17
-pipenv==2020.11.15
+pipenv==2022.8.24
 autopep8==1.6.0
 mypy==0.942
 networkx==2.6.3
